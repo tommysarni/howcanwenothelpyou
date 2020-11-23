@@ -30,9 +30,6 @@ const Subheader = () => {
           <Route path="/appointment" exact component={Appointment} />
         </div>
       </div>
-      
-      
-    
     </Router>
     
 
